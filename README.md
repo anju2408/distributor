@@ -10,7 +10,7 @@
 
 _Note:_ The latest stable version of the plugin is the _stable_ branch. [Download the stable branch]((https://github.com/10up/distributor/archive/stable.zip)) if you are intending to use the plugin in production.
 
-## Table of Contents
+## List of Contents
 * [Features](#features)
   * [Gutenberg Support](#gutenberg-support-beta)
 * [Requirements](#requirements)
